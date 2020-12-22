@@ -3,7 +3,7 @@ title   : Offer From Me
 subtitle: >
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
 item    :
-  - icon  : ion-ios-flask-outline
+  - icon  : ion-ios-paper-outline
     title : Media heading
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
@@ -27,7 +27,7 @@ item    :
     title : Simple Installation
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-  
+
   - icon  : ion-ios-lightbulb-outline
     title : Well documented.
     description : >
