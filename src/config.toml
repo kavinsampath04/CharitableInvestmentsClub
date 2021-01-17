@@ -1,7 +1,7 @@
 baseURL = "https://jailingineni.github.io/CharitableInvestmentsClub/"
 languageCode = "en-us"
 title = "Charitable People"
-theme = "timer-hugo" 
+theme = "timer-hugo"
 publishDir = ".."
 
 
@@ -46,31 +46,31 @@ contactFormAction = "#" # contact form works with https://formspree.io
 [params.banner]
 enable  = true
 bgImage = "images/slider.jpg"
-heading = "HI, MY NAME IS Jaideep"
-description = "WITH 0 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+heading = "HI, WE ARE THE CHARITABLE INVESTMENTS CLUB"
+description = "Our club was made to help teach students about investment and better the community at the same time."
 # button
-btn     = true
+btn     = false
 btnText = "Download More"
 btnURL  = "https://themefisher.com/"
 
 # flip text
 [[params.banner.flipText]]
-title   = "DESIGNER"
+title   = "CHARITABLE"
 [[params.banner.flipText]]
-title   = "DEVELOPER"
+title   = "INVOLVED"
 [[params.banner.flipText]]
-title   = "FATHER"
+title   = "EDUCATIONAL"
 
 # Homepage About Section
 [params.about]
 enable  = true
-title   = "ABOUT ME"
-content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+title   = "ABOUT THE CLUB"
+content = "6 teenagers started this club with an interest in both investing, education, and charity. Together, they learned about the stock market and investments, and finally decided to put together everything they knew to help the community. <br> <br> Together, we created an account worth $2,100. Our goal is to use what we’ve learned to grow that number through investing, and donate any and all of the profits we make to a good cause in the local area. Along the way, we will also conduct activities related to volunteering and giving back, which might entail some fundraising as well. COVID-19 brought unprecedented times, and we want to do our part in helping our community in anyway we can. It’ll be a great learning experience for us, in both investing and altruism. We are ready to everything we can… Are you ready to help us?"
 image   = "images/about/about.jpg"
 
 # Call to Action
 [params.cta]
-enable  = true
+enable  = false
 title   = "SO WHAT YOU THINK ?"
 content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
 btnText = "Contact with me"

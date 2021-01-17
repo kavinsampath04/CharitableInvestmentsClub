@@ -1,5 +1,5 @@
 enable  : true
-title   : We are the coolest a ! a!
+title   : The 3 Teams
 description: >
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   <br>
@@ -7,14 +7,15 @@ description: >
   Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
 image   : images/about/about-company.jpg
 aboutItem:
-  - title : Why Choose Us
+  - title : Analyst
     description: >
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      Members who choose to join this team will handle the primary function of researching and presenting prospective securities to the club. They look at multiple stocks in the current market and analyze them to get the best picks and finally present the data to the executive committee for the investment to go through.
 
-  - title : What You Get
-    description: >
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
 
-  - title : Meet The Energy
+  - title : Marketing
     description: >
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      Members who choose to join this team will handle the marketing of the club to prospective members and potential donors. They will spread news of the club to other prospective members through multiple social media handles. They will also present pitches to other potential donors in order to recieve an investment for the club account.
+
+  - title : Finance
+    description: >
+      Members who choose to join this team will handle the primary function of raising and handling funds within the club. They will also manage any fubnds going in and out of the club, menaing they will also be in charge of finding places to donate too.
