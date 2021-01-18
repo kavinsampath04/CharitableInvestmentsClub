@@ -1,9 +1,9 @@
 enable  : true
 title   : MEET THE TEAM
 members  :
-  - name  : Jonathon Andrew
+  - name  : Kavin Sampath
     image : images/team/team-1.jpg
-    designation : CEO, Project Manager
+    designation : Founder, President
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
