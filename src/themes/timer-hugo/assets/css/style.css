@@ -426,6 +426,7 @@ a:hover {
   color: #fff;
   padding: 85px 65px;
   float: left;
+  height:400px
 }
 
 .about-feature .block p {
@@ -437,11 +438,11 @@ a:hover {
 }
 
 .about-feature .about-feature-2 {
-  background: #00B0C7;
+  background: green;
 }
 
 .about-feature .about-feature-3 {
-  background: #00A6BB;
+  background: green;
 }
 
 .works {
