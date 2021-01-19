@@ -4,7 +4,7 @@ type: portfolio
 date: 2020-09-12T16:54:54+06:00
 description : "CIC Donates 204 Pounds of Peanut Butter to Local Food Bank"
 caption: Donation
-image: https://jailingineni.github.io/CharitableInvestmentsClub/images/portfolio/item-1/
+image: images/portfolio/item-2.jpg
 category: ["donation"]
 liveLink: 
 client: North Texas Food Bank
