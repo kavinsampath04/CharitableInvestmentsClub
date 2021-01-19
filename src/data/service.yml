@@ -4,21 +4,21 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis
 image   : images/team.jpg
 serviceItem :
   - icon  : ion-ios-pint-outline
-    title : BRANDING
+    title : Learn
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-pint-outline
-    title : DESIGN
+    title : Invest
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-paper-outline
-    title : DEVELOPMENT
+    title : Donate
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-paper-outline
-    title : THEMEING
+    title : Collaborate
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum

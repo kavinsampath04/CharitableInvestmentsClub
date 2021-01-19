@@ -1,24 +1,22 @@
 enable  : true
-title   : WHAT WE LOVE TO DO
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
+title   : WHAT WE DO
+subtitle: 
 image   : images/team.jpg
 serviceItem :
   - icon  : ion-ios-paper-outline
-    title : BRANDING
+    title : LEARN
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      
 
   - icon  : ion-ios-pint-outline
-    title : DESIGN
+    title : DONATE
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
-
+     
   - icon  : ion-ios-paper-outline
-    title : DEVELOPMENT
+    title : INVEST
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
-
+      
   - icon  : ion-ios-paper-outline
-    title : THEMEING
+    title : COLLABORATE
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      

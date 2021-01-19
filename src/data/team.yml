@@ -10,7 +10,7 @@ members  :
     linkedIn    : https://www.linkedin.com/themefisher
     googleplus  : https://plus.google.com/themefisher
   
-  - name  : Jesmin Martina
+  - name  : Prabhav Kumbum
     image : images/team/team-2.jpg
     designation : CEO, Project Manager
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
@@ -19,7 +19,7 @@ members  :
     linkedIn    : https://www.linkedin.com/themefisher
     googleplus  : https://plus.google.com/themefisher
   
-  - name  : Deu John
+  - name  : Rohan Nalla
     image : images/team/team-3.jpg
     designation : CEO, Project Manager
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
@@ -28,11 +28,34 @@ members  :
     linkedIn    : https://www.linkedin.com/themefisher
     googleplus  : https://plus.google.com/themefisher
 
-  - name  : Anderson Martin
-    image : images/team/team-4.jpg
+  - name  : Aksh Tyagi
+    image : images/team/team-3.jpg
     designation : CEO, Project Manager
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
     googleplus  : https://plus.google.com/themefisher
+
+  - name  : Rohan Pritmani
+    image : images/team/team-3.jpg
+    designation : CEO, Project Manager
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Nikshith Konnuru
+    image : images/team/team-3.jpg
+    designation : CoFounder
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+
+
+
+  
