@@ -1,6 +1,6 @@
 baseURL = "https://jailingineni.github.io/CharitableInvestmentsClub/"
 languageCode = "en-us"
-title = "CharitableInvestmentsClub"
+title = "CIC"
 theme = "timer-hugo"
 publishDir = ".."
 
