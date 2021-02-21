@@ -26,7 +26,6 @@ name    = "Contact"
 url     = "contact"
 weight  = 6
 
-
 # Site Params
 [params]
 home = "Home"

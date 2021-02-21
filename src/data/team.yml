@@ -4,7 +4,7 @@ members  :
   - name  : Kavin Sampath
     image : images/team/team-1.jpg
     designation : Founder, President
-    description : 
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
@@ -13,7 +13,7 @@ members  :
   - name  : Prabhav Kumbum
     image : images/team/team-2.jpg
     designation : CEO, Project Manager
-    description : Hello, I’m Prabhav Kumbum and I’m a junior at Coppell High School. I knew the Charitable Investments Club was an excellent opportunity from the start because of the passion we all had towards investing and making the club as successful as possible. I had some previous knowledge about securities and investments before joining the club, but the Charitable Investments Club gave me the chance to learn about new forms of analysis and more importantly use that knowledge to give back to the community. It has truly been a life-changing experience to develop the CIC into what it is today, and I am excited for the club’s future.
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
@@ -29,9 +29,9 @@ members  :
     googleplus  : https://plus.google.com/themefisher
 
   - name  : Aksh Tyagi
-    image : images/team/team-4.jpg
+    image : images/team/team-3.jpg
     designation : CEO, Project Manager
-    description : Hello, my name is Aksh Tyagi and I am currently a junior at Coppell High School. What got me excited about joining the Charitable Investments Club was how unique the idea behind it was. Learning how to invest is great, and there are many resources to learn about the intricacies of investing. However, getting to invest real money and potentially donate gains made from that money to a charitable cause is something truly unique, and that is what I enjoy about CIC. In addition to CIC, I enjoy practicing Karate, playing chess, playing basketball, learning about computers, and being an active member of the Technology Student Association.
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
@@ -54,6 +54,7 @@ members  :
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
     googleplus  : https://plus.google.com/themefisher
+
 
 
 
