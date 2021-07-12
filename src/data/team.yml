@@ -3,7 +3,7 @@ title   : MEET THE TEAM
 members  :
   - name  : Kavin Sampath
     image : images/team/team-1.jpg
-    designation : Founder, President
+    designation : Founder/Executive Chair
     description : 
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
@@ -12,17 +12,8 @@ members  :
   
   - name  : Prabhav Kumbum
     image : images/team/team-2.jpg
-    designation : CEO, Project Manager
+    designation : Executive Committee Member
     description : Hello, I’m Prabhav Kumbum and I’m a junior at Coppell High School. I knew the Charitable Investments Club was an excellent opportunity from the start because of the passion we all had towards investing and making the club as successful as possible. I had some previous knowledge about securities and investments before joining the club, but the Charitable Investments Club gave me the chance to learn about new forms of analysis and more importantly use that knowledge to give back to the community. It has truly been a life-changing experience to develop the CIC into what it is today, and I am excited for the club’s future.
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
-  
-  - name  : Rohan Nalla
-    image : images/team/team-3.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
@@ -30,17 +21,8 @@ members  :
 
   - name  : Aksh Tyagi
     image : images/team/team-4.jpg
-    designation : CEO, Project Manager
+    designation : Executive Committee Member
     description : Hello, my name is Aksh Tyagi and I am currently a junior at Coppell High School. What got me excited about joining the Charitable Investments Club was how unique the idea behind it was. Learning how to invest is great, and there are many resources to learn about the intricacies of investing. However, getting to invest real money and potentially donate gains made from that money to a charitable cause is something truly unique, and that is what I enjoy about CIC. In addition to CIC, I enjoy practicing Karate, playing chess, playing basketball, learning about computers, and being an active member of the Technology Student Association.
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
-
-  - name  : Rohan Pritmani
-    image : images/team/team-3.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
@@ -48,12 +30,202 @@ members  :
 
   - name  : Nikshith Konnuru
     image : images/team/team-3.jpg
-    designation : CoFounder
+    designation : Executive Committee Member
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
     googleplus  : https://plus.google.com/themefisher
+
+  - name  : Rohan Nalla
+    image : images/team/team-3.jpg
+    designation : Executive Committee Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Rohan Pritmani
+    image : images/team/team-3.jpg
+    designation : Executive Committee Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Anshul Shah
+    image : images/team/team-3.jpg
+    designation : Marketing Team Lead
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Rohit Kondareddy
+    image : images/team/team-3.jpg
+    designation : Marketing Team Lead
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Kaushik Ramakrishnan
+    image : images/team/team-3.jpg
+    designation : Analyst Team Lead
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : TBD
+    image : images/team/team-3.jpg
+    designation : Analyst Team Lead
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Anirudh Kumbum
+    image : images/team/team-3.jpg
+    designation : Finance Team Lead
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Faheem Sultan
+    image : images/team/team-3.jpg
+    designation : Marketing Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Linh Le
+    image : images/team/team-3.jpg
+    designation : Marketing Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Kenneth Chen
+    image : images/team/team-3.jpg
+    designation : Marketing Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Jaideep Lingeneni
+    image : images/team/team-3.jpg
+    designation : Marketing Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Rithvik_____EDIT
+    image : images/team/team-3.jpg
+    designation : Marketing Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Abhinav Yarlagadda
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Karthik Nakka
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Tharun Sobanbabu
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Amshu Pudhota
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Mohammed _______EDIT
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Nikhil Kabra
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Rohit Kannan
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Jonathan Keng
+    image : images/team/team-3.jpg
+    designation : Finance Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Sai Pydimarry
+    image : images/team/team-3.jpg
+    designation : Marketing Team Member
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
 
 
 
