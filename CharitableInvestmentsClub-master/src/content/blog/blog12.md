@@ -1,0 +1,10 @@
+---
+title: "Meeting on 2020-06-08"
+date: 2020-06-08T12:29:40+06:00
+type: post
+author: Charitable Investments Club
+---
+Shopify was a bust, but that's okay because today we made two major moves that will ensure our account's prosperity. The deal with Shopify was that we put in a trailing stop loss order, but somehow it executed way below our order, meaning that we lost a lot more money than we expected. At this point, however,  we all understand that not every investment we make into the stock market will result in gains for the account. That's why today we bought 50 shares of MGM, which is a casino and entertainment company. As we discussed in previous meetings, the casino industry is seeing a big boom as more and more people flood places like Sin City due to the end of quarantine. The 50 shares seemed like a lot, but as soon as the order executed, we had made two dollars. We were able to buy in such bulk because of our second major move that we made today: the selling of LABU (biotech ETF). We sold all nine shares of LABU because we believed that it was the right time to do so as biotech is unpredictable and we wanted more liquid cash for future investments. In order to sell the stock, we put in a limit sell order at fifty dollars, and in a few minutes, the sell order executed. This gave our account around 500 dollars for future investments, some of which we used to buy more shares of MGM. 
+
+Once the two trades were completed, we began discussion about a YouTube channel that we could start to boost awareness about our club. We talked about how we would begin raising awareness for the club as soon as we had made 210 dollars. That number is significant because it marks a ten percent growth for the account, which is the average growth for an account in a year. If we hit ten percent growth in either this month or the next, it will boost our confidence and credibility in the eyes of our peers and our superiors (colleges, teachers, principal, etc.). Overall, today was a day in which we shook off the loss from Shopify and made two strong trades that will insure gains for our account in the future. 
+
