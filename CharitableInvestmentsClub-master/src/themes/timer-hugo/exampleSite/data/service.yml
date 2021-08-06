@@ -1,0 +1,22 @@
+enable  : true
+title   : WHAT WE DO
+subtitle: 
+image   : images/team.jpg
+serviceItem :
+  - icon  : ion-ios-paper-outline
+    title : LEARN
+    description: >
+      
+
+  - icon  : ion-ios-pint-outline
+    title : DONATE
+    description: >
+     
+  - icon  : ion-ios-paper-outline
+    title : INVEST
+    description: >
+      
+  - icon  : ion-ios-paper-outline
+    title : COLLABORATE
+    description: >
+      

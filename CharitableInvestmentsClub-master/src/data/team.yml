@@ -1,0 +1,194 @@
+enable  : true
+title   : MEET THE TEAM
+members  :
+  - name  : Kavin Sampath
+    image : images/team/team-1.jpg
+    designation : Founder/Executive Chair
+    description : 
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+  
+  - name  : Prabhav Kumbum
+    image : images/team/team-3.jpg
+    designation : Executive Committee Member
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Aksh Tyagi
+    image : images/team/team-3.jpg
+    designation : Executive Committee Member
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Nikshith Konnuru
+    image : images/team/team-3.jpg
+    designation : Executive Committee Member
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Rohan Nalla
+    image : images/team/team-3.jpg
+    designation : Executive Committee Member
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Rohan Pritmani
+    image : images/team/team-3.jpg
+    designation : Executive Committee Member
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Anshul Shah
+    image : images/team/team-3.jpg
+    designation : Marketing Team Lead
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Rohit Kondareddy
+    image : images/team/team-3.jpg
+    designation : Marketing Team Lead
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Kaushik Ramakrishnan
+    image : images/team/team-3.jpg
+    designation : Analyst Team Lead
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Mohammed _______EDIT
+    image : images/team/team-3.jpg
+    designation : Analyst Team Lead
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Anirudh Kumbum
+    image : images/team/team-3.jpg
+    designation : Finance Team Lead
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Faheem Sultan
+    image : images/team/team-3.jpg
+    designation : Marketing Team Member
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Jaideep Lingineni
+    image : images/team/team-3.jpg
+    designation : Marketing Team Member
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Linh Le
+    image : images/team/team-3.jpg
+    designation : Marketing Team Member
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Kenneth Chen
+    image : images/team/team-3.jpg
+    designation : Marketing Team Member
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Abhinav Yarlagadda
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Karthik Nakka
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Tharun Sobanbabu
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : hours
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Amshu Pudhota
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Rohit Kannan
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Smaran Voora
+    image : images/team/team-3.jpg
+    designation : Analyst Team Member
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Sai Pydimarry
+    image : images/team/team-3.jpg
+    designation : Marketing Team Member
+    description : hours
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher

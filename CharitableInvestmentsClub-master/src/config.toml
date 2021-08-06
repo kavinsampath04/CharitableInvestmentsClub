@@ -1,0 +1,93 @@
+baseURL = "https://kavinsampath04.github.io/CharitableInvestmentsClub/"
+languageCode = "en-us"
+title = "CIC"
+theme = "timer-hugo"
+publishDir = ".."
+
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.main]]
+name    = "Service"
+url     = "service"
+weight  = 3
+
+[[menu.main]]
+name    = "Blog"
+url     = "blog"
+weight  = 5
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Airspace Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "https://formspree.io/f/mwkwypdz" 
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/slider.jpg"
+heading = "INVESTING TODAY FOR A BETTER TOMORROW."
+description = "Welcome to the Charitable Investments Club."
+# button
+btn     = false
+btnText = "Download More"
+btnURL  = "https://themefisher.com/"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Charitable"
+[[params.banner.flipText]]
+title   = "Involved"
+[[params.banner.flipText]]
+title   = "Educational"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "ABOUT THE CLUB"
+content = "Investing today in a better tomorrow. Not just for yourself, but for the good of those around you as well. Wouldn’t it be great if everyone did it? What started out as a small investing club to teach our friends about investing has turned into a nonprofit organization led by high schoolers who are focused on using our interest in finance and investing to help those around us. Our process is to collect donations, use the stock market to grow said donations, and donate the larger sum to places that need it. Investments can be a powerful vehicle for change, and we are working to not only educate our peers about it so they get a headstart, but also utilize that knowledge to help others as well. It’s pretty invigorating to go against the standard stereotype that an investor only invests for themselves at the cost of others, and we're working hard to make sure that we continue to stay different."
+
+# Call to Action
+[params.cta]
+enable  = false
+title   = "SO WHAT YOU THINK ?"
+content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+btnText = "Contact with me"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Impact On the Community"
+subtitle= "Click on Any of The Articles To Read About Out Impact On The Community"
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "#"
