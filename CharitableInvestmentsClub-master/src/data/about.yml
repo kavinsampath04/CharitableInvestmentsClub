@@ -1,7 +1,7 @@
 enable  : true
 title   : The 3 Teams
 description: >
-  CIC consists of 3 teams including an Analyst, Marketing, and Finance Team. Each Team has its own responsibilites to make sure the club runs effectively. 
+  CIC consists of 3 teams including an Analyst, Marketing, and Finance Team. Each Team has its own responsibilites to make sure the club runs effectively.
   <br>
   <br>
 image   : images/about/about-company.jpg
@@ -9,11 +9,9 @@ aboutItem:
   - title : Analyst Team
     description: >
       Members who choose to join this team will handle the primary function of researching and presenting prospective securities to the club. They look at multiple stocks in the current market and analyze them to get the best picks and finally present the data to the executive committee for the investment to go through.
-
-
-  - title : Executive Team
+  - title: Executive Team
     description: >
-
+      Members in this team are all part of the board and they will handle the overall internal management of the club. This team will consist of the members of the board and the other team leaders, and they will look at the club itself and handle the management of members, hours, and also the finances of the club itself.
   - title : Marketing Team
     description: >
       Members who choose to join this team will handle the marketing of the club to prospective members and potential donors. They will spread news of the club to other prospective members through multiple social media handles. They will also present pitches to other potential donors in order to recieve an investment for the club account.

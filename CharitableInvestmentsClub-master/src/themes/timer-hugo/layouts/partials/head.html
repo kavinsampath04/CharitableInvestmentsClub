@@ -2,11 +2,11 @@
   {{ "<!-- Basic Page Needs -->" | safeHTML }}
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  
+
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
-  
+
   {{ "<!-- Mobile Specific Metas -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title }}</title>
@@ -29,4 +29,5 @@
   {{ "<!-- template main css file -->" | safeHTML }}
   {{ $styles := resources.Get "css/style.css" | minify}}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.min.css">
 </head>
